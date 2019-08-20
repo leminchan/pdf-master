@@ -1,2 +1,8 @@
-# Ignore these files / folders.
-.vscode/
+# vscode Directory:
+.vscode/*
+!.vscode/settings.json
+
+# Byte-compiled / optimized / DLL files:
+__pycache__/
+dep/__pycache__/
+
